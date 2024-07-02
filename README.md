@@ -77,6 +77,11 @@ PMO AI Agents supports the following AI models:
 - Mistral models: "mistral-tiny", "mistral-small", "mistral-medium", etc.
 - Phi-3 (via Ollama): "phi-3"
 
-## API Key and Model Setup
+Documentation
+For full documentation, visit docs/index.md.
 
-(The rest of the README remains the same as in the previous version)
+Contributing
+We welcome contributions! Please see our Contributing Guide for more details.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
